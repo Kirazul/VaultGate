@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="VaultGate.portal/public/vault.png" alt="VaultGate Logo" width="120" height="120" />
+  <img src="screenshots/vault.png" alt="VaultGate Logo" width="120" height="120" />
 </p>
 
 <h1 align="center">VaultGate</h1>
