@@ -22,8 +22,6 @@
 
 VaultGate is a production-ready API gateway that unifies 40+ AI providers into a single OpenAI-compatible endpoint. Access models from OpenAI, Anthropic, Google, Mistral, DeepSeek, Meta, Groq, and more through one consistent API.
 
-If your application works with OpenAI, it works with VaultGate. Just change the base URL and API key.
-
 ---
 
 ## Features
