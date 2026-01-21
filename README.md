@@ -55,7 +55,7 @@ VaultGate is a production-ready API gateway that unifies 40+ AI providers into a
 
 ### Step 3: Generate an API Key
 
-1. Go to the "API Keys" page from the sidebar
+1. Go to the  "API Keys" page from the sidebar
 2. Click "Create API Key"
 3. Enter a name for your key (e.g., "My Application", "Development", "Production")
 4. Configure optional settings:
